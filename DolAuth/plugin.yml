@@ -1,0 +1,11 @@
+---
+name: DolAuth
+version: 1.0.0
+api:
+- 3.0.0
+author: xdolmation
+main: xdolmation\DolAuth\Auth
+commands:
+  auth:
+    description: Authentication management command.
+...
